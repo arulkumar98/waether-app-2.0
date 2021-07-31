@@ -1,0 +1,10 @@
+body {
+    background-image: url(img/pexels-kaique-rocha-125510.jpg);
+    padding: auto;
+    background-size: cover;
+}
+
+.label {
+    font-size:25px;
+    color: aliceblue;
+}
